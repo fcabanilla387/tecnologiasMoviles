@@ -1,0 +1,16 @@
+[
+  {
+    "id" : 1,
+    "title": "Primer Elemento",
+    "subtitle" : "Subtitulo del primer elemento",
+    "main_image" : "main_image",
+    "images" : ["image1.jpg", "image2.jpg", "image3.jpg"]
+  },
+  {
+    "id" : 2,
+    "title": "Segundo Elemento",
+    "subtitle" : "Subtitulo del segundo elemento",
+    "main_image" : "main_image2.jpg",
+    "images" : ["2image1.jpg", "2image2.jpg", null]
+  }
+]
